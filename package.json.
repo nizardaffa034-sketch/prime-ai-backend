@@ -1,0 +1,14 @@
+# prime-ai-backend
+Backend API for PRIME AI Android
+
+{
+  "name": "prime-ai-backend",
+  "version": "1.0.0",
+  "type": "module",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.21.2"
+  }
+}
